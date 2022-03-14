@@ -1,0 +1,4 @@
+1. Create a controller.
+2. create a service interface.
+3. implement service class.
+4 define repo interface.
